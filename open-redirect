@@ -1,0 +1,7 @@
+site:domain.tld inurl:redir
+site:domain.tld inurl:redirect
+site:domain.tld inurl:redirect_to
+site:domain.tld inurl:newurl
+site:domain.tld inurl:targeturl
+site:domain.tld inurl:link
+site:domain.tld inurl:url
